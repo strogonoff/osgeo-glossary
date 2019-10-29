@@ -1,0 +1,12 @@
+---
+term: IEEE GRSS
+termid: 215
+eng:
+  id: 215
+  term: IEEE GRSS
+  definition: IEEE Geoscience and Remote Sensing Society
+  language_code: eng
+  notes: []
+  examples: []
+  authoritative_source:
+    link: https://www.opengeospatial.org/acronyms

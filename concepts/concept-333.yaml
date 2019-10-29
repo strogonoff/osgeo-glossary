@@ -1,0 +1,12 @@
+---
+term: OWScontextSWG
+termid: 333
+eng:
+  id: 333
+  term: OWScontextSWG
+  definition: OWS Context SWG
+  language_code: eng
+  notes: []
+  examples: []
+  authoritative_source:
+    link: https://www.opengeospatial.org/acronyms

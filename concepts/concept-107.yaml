@@ -1,0 +1,14 @@
+---
+term: ebRIM
+termid: 107
+eng:
+  id: 107
+  term: ebRIM
+  definition: 'OASIS ebXML (OASIS Electronic Business using eXtensible Markup Language)
+    Registry Information Model. See OGC Catalog ebRIM Application Profile: Earth Observation
+    Products.'
+  language_code: eng
+  notes: []
+  examples: []
+  authoritative_source:
+    link: https://www.opengeospatial.org/acronyms

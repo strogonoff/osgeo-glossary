@@ -1,0 +1,12 @@
+---
+term: EO
+termid: 121
+eng:
+  id: 121
+  term: EO
+  definition: Earth Observation
+  language_code: eng
+  notes: []
+  examples: []
+  authoritative_source:
+    link: https://www.opengeospatial.org/acronyms

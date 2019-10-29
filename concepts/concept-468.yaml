@@ -1,0 +1,12 @@
+---
+term: WMTS
+termid: 468
+eng:
+  id: 468
+  term: WMTS
+  definition: Web Map Tiles Services
+  language_code: eng
+  notes: []
+  examples: []
+  authoritative_source:
+    link: https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf

@@ -1,0 +1,12 @@
+---
+term: O&M
+termid: 295
+eng:
+  id: 295
+  term: O&M
+  definition: OGC Observations and Measurements Encoding Standard
+  language_code: eng
+  notes: []
+  examples: []
+  authoritative_source:
+    link: https://www.opengeospatial.org/acronyms

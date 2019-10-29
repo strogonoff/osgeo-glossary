@@ -1,0 +1,12 @@
+---
+term: SWE Common
+termid: 410
+eng:
+  id: 410
+  term: SWE Common
+  definition: Sensor Web Enablement Common Data Model
+  language_code: eng
+  notes: []
+  examples: []
+  authoritative_source:
+    link: https://www.opengeospatial.org/acronyms

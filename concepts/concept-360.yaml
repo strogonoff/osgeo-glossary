@@ -1,0 +1,12 @@
+---
+term: SANY
+termid: 360
+eng:
+  id: 360
+  term: SANY
+  definition: Sensors Anywhere Consortium
+  language_code: eng
+  notes: []
+  examples: []
+  authoritative_source:
+    link: https://www.opengeospatial.org/acronyms

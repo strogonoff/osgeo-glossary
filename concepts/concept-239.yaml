@@ -1,0 +1,12 @@
+---
+term: JAG
+termid: 239
+eng:
+  id: 239
+  term: JAG
+  definition: Joint Advisory Committee between OGC and ISO TC 211
+  language_code: eng
+  notes: []
+  examples: []
+  authoritative_source:
+    link: https://www.opengeospatial.org/acronyms

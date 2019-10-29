@@ -1,0 +1,12 @@
+---
+term: AECOO
+termid: 6
+eng:
+  id: 6
+  term: AECOO
+  definition: Architecture, Engineering, Construction, Owner and Operator
+  language_code: eng
+  notes: []
+  examples: []
+  authoritative_source:
+    link: https://www.opengeospatial.org/acronyms

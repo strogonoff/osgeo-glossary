@@ -1,0 +1,12 @@
+---
+term: ECMWF
+termid: 114
+eng:
+  id: 114
+  term: ECMWF
+  definition: European Center for Medium range Weather Forecasting
+  language_code: eng
+  notes: []
+  examples: []
+  authoritative_source:
+    link: https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf

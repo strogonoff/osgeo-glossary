@@ -1,0 +1,12 @@
+---
+term: CADD or CAD
+termid: 30
+eng:
+  id: 30
+  term: CADD or CAD
+  definition: Computer-aided design and drafting
+  language_code: eng
+  notes: []
+  examples: []
+  authoritative_source:
+    link: https://www.opengeospatial.org/acronyms

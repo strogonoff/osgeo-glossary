@@ -1,0 +1,12 @@
+---
+term: CGDI
+termid: 42
+eng:
+  id: 42
+  term: CGDI
+  definition: Canadian Geospatial Data Infrastructure
+  language_code: eng
+  notes: []
+  examples: []
+  authoritative_source:
+    link: https://www.opengeospatial.org/acronyms

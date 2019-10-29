@@ -1,0 +1,12 @@
+---
+term: WMT
+termid: 467
+eng:
+  id: 467
+  term: WMT
+  definition: Web Mapping Testbed
+  language_code: eng
+  notes: []
+  examples: []
+  authoritative_source:
+    link: https://www.opengeospatial.org/acronyms

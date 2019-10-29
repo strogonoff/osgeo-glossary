@@ -1,0 +1,12 @@
+---
+term: SME
+termid: 387
+eng:
+  id: 387
+  term: SME
+  definition: Small or Medium Sized Enterprise
+  language_code: eng
+  notes: []
+  examples: []
+  authoritative_source:
+    link: https://www.opengeospatial.org/acronyms

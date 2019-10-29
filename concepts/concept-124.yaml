@@ -1,0 +1,12 @@
+---
+term: EOSDIS
+termid: 124
+eng:
+  id: 124
+  term: EOSDIS
+  definition: Earth Observing System and Data Information System
+  language_code: eng
+  notes: []
+  examples: []
+  authoritative_source:
+    link: https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf

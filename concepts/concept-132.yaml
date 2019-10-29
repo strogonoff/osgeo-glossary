@@ -1,0 +1,12 @@
+---
+term: ESDI
+termid: 132
+eng:
+  id: 132
+  term: ESDI
+  definition: European Spatial Data Information Infrastructure
+  language_code: eng
+  notes: []
+  examples: []
+  authoritative_source:
+    link: https://www.opengeospatial.org/acronyms

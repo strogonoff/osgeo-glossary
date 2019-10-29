@@ -1,0 +1,16 @@
+---
+term: Spherical Mercator
+termid: 396
+eng:
+  id: 396
+  term: Spherical Mercator
+  definition: Spherical Mercator is a term used to describe the PROJECTION used by
+    many commercial API providers.
+  language_code: eng
+  notes: []
+  examples: []
+  type: term
+  comments:
+  - TMG_NP
+  authoritative_source:
+    link: https://mapserver.org/glossary.html

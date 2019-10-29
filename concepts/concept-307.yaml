@@ -1,0 +1,12 @@
+---
+term: OGC Reference Model
+termid: 307
+eng:
+  id: 307
+  term: OGC Reference Model
+  definition: a complete set of the OGC's reference models
+  language_code: eng
+  notes: []
+  examples: []
+  authoritative_source:
+    link: https://www.opengeospatial.org/acronyms

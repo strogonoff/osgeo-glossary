@@ -1,0 +1,12 @@
+---
+term: GNSS
+termid: 183
+eng:
+  id: 183
+  term: GNSS
+  definition: Global Navigational Satellite System
+  language_code: eng
+  notes: []
+  examples: []
+  authoritative_source:
+    link: https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf

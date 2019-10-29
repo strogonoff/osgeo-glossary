@@ -1,0 +1,12 @@
+---
+term: SDI
+termid: 366
+eng:
+  id: 366
+  term: SDI
+  definition: Spatial Data Infrastructure
+  language_code: eng
+  notes: []
+  examples: []
+  authoritative_source:
+    link: https://www.opengeospatial.org/acronyms

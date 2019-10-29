@@ -1,0 +1,12 @@
+---
+term: IES
+termid: 217
+eng:
+  id: 217
+  term: IES
+  definition: Imagery Exploitation Working Group IETFInternet Engineering Task Force
+  language_code: eng
+  notes: []
+  examples: []
+  authoritative_source:
+    link: https://www.opengeospatial.org/acronyms

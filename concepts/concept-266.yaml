@@ -1,0 +1,15 @@
+---
+term: Mercator
+termid: 266
+eng:
+  id: 266
+  term: Mercator
+  definition: Wikipedia provides excellent coverage of the Mercator projection.
+  language_code: eng
+  notes: []
+  examples: []
+  type: check
+  comments:
+  - TMG_NP
+  authoritative_source:
+    link: https://mapserver.org/glossary.html

@@ -1,0 +1,12 @@
+---
+term: BMP
+termid: 25
+eng:
+  id: 25
+  term: BMP
+  definition: Bitmap. A Microsoft Windows image format
+  language_code: eng
+  notes: []
+  examples: []
+  authoritative_source:
+    link: https://www.opengeospatial.org/acronyms

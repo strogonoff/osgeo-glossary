@@ -1,0 +1,12 @@
+---
+term: SLD
+termid: 384
+eng:
+  id: 384
+  term: SLD
+  definition: Styled Layer Descriptor
+  language_code: eng
+  notes: []
+  examples: []
+  authoritative_source:
+    link: https://www.opengeospatial.org/acronyms

@@ -1,0 +1,12 @@
+---
+term: DXF
+termid: 103
+eng:
+  id: 103
+  term: DXF
+  definition: Drawing eXchange Format (AutoCAD exchange format)
+  language_code: eng
+  notes: []
+  examples: []
+  authoritative_source:
+    link: https://www.opengeospatial.org/acronyms

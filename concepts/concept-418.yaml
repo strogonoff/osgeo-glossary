@@ -1,0 +1,12 @@
+---
+term: TEAM Engine
+termid: 418
+eng:
+  id: 418
+  term: TEAM Engine
+  definition: Test, Evaluation, And Measurement Engine
+  language_code: eng
+  notes: []
+  examples: []
+  authoritative_source:
+    link: https://www.opengeospatial.org/acronyms

@@ -1,0 +1,13 @@
+---
+term: Filter Encoding
+termid: 145
+eng:
+  id: 145
+  term: Filter Encoding
+  definition: Filter Encoding is an OGC standard which defines an XML encoding for
+    filter expressions to allow for spatial and attribute querying.
+  language_code: eng
+  notes: []
+  examples: []
+  authoritative_source:
+    link: https://mapserver.org/glossary.html

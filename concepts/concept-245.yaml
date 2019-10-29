@@ -1,0 +1,12 @@
+---
+term: JPEG
+termid: 245
+eng:
+  id: 245
+  term: JPEG
+  definition: Joint Photographics Group
+  language_code: eng
+  notes: []
+  examples: []
+  authoritative_source:
+    link: https://www.opengeospatial.org/acronyms

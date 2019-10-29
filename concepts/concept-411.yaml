@@ -1,0 +1,12 @@
+---
+term: SWF
+termid: 411
+eng:
+  id: 411
+  term: SWF
+  definition: Shockwave Flash format that MapServer can generate for output.
+  language_code: eng
+  notes: []
+  examples: []
+  authoritative_source:
+    link: https://mapserver.org/glossary.html

@@ -1,0 +1,13 @@
+---
+term: OM
+termid: 314
+eng:
+  id: 314
+  term: OM
+  definition: Observations and Measurements is an OGC standard which defines an abstract
+    model for sensor based data.
+  language_code: eng
+  notes: []
+  examples: []
+  authoritative_source:
+    link: https://mapserver.org/glossary.html

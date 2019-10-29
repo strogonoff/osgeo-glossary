@@ -1,0 +1,12 @@
+---
+term: DCE
+termid: 83
+eng:
+  id: 83
+  term: DCE
+  definition: Distributed Computing Environment
+  language_code: eng
+  notes: []
+  examples: []
+  authoritative_source:
+    link: https://www.opengeospatial.org/acronyms

@@ -1,0 +1,12 @@
+---
+term: ITU
+termid: 238
+eng:
+  id: 238
+  term: ITU
+  definition: International Telecommunication Union
+  language_code: eng
+  notes: []
+  examples: []
+  authoritative_source:
+    link: https://www.opengeospatial.org/acronyms

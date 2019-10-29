@@ -1,0 +1,12 @@
+---
+term: SOA
+termid: 390
+eng:
+  id: 390
+  term: SOA
+  definition: Services Oriented Architecture
+  language_code: eng
+  notes: []
+  examples: []
+  authoritative_source:
+    link: https://www.opengeospatial.org/acronyms

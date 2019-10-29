@@ -1,0 +1,12 @@
+---
+term: KML
+termid: 250
+eng:
+  id: 250
+  term: KML
+  definition: OGC KML Encoding Standard (formerly Keyhole Markup Language)
+  language_code: eng
+  notes: []
+  examples: []
+  authoritative_source:
+    link: https://www.opengeospatial.org/acronyms

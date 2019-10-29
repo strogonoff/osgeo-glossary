@@ -1,0 +1,13 @@
+---
+term: OGC
+termid: 305
+eng:
+  id: 305
+  term: OGC
+  definition: The Open Geospatial Consortium is a standards organization body in the
+    GIS domain. MapServer supports numerous OGC standards.
+  language_code: eng
+  notes: []
+  examples: []
+  authoritative_source:
+    link: https://mapserver.org/glossary.html

@@ -1,0 +1,12 @@
+---
+term: RPC
+termid: 355
+eng:
+  id: 355
+  term: RPC
+  definition: Remote Procedure Call
+  language_code: eng
+  notes: []
+  examples: []
+  authoritative_source:
+    link: https://www.opengeospatial.org/acronyms

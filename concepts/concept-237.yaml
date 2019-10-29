@@ -1,0 +1,12 @@
+---
+term: ISPRS
+termid: 237
+eng:
+  id: 237
+  term: ISPRS
+  definition: International Society for Photogrammetry and Remote Sensing
+  language_code: eng
+  notes: []
+  examples: []
+  authoritative_source:
+    link: https://www.opengeospatial.org/acronyms

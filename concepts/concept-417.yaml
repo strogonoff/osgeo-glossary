@@ -1,0 +1,12 @@
+---
+term: TDWG
+termid: 417
+eng:
+  id: 417
+  term: TDWG
+  definition: Taxonomic Data Working Group
+  language_code: eng
+  notes: []
+  examples: []
+  authoritative_source:
+    link: https://www.opengeospatial.org/acronyms

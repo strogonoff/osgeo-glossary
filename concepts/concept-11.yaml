@@ -1,0 +1,12 @@
+---
+term: ANSI
+termid: 11
+eng:
+  id: 11
+  term: ANSI
+  definition: American National Standards Institute
+  language_code: eng
+  notes: []
+  examples: []
+  authoritative_source:
+    link: https://www.opengeospatial.org/acronyms

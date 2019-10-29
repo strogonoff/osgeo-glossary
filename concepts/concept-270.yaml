@@ -1,0 +1,13 @@
+---
+term: MLS DWG
+termid: 270
+eng:
+  id: 270
+  term: MLS DWG
+  definition: Mobile Location Services Domian Working Group - merger of Mass Market
+    and Location Services DWGs
+  language_code: eng
+  notes: []
+  examples: []
+  authoritative_source:
+    link: https://www.opengeospatial.org/acronyms

@@ -1,0 +1,14 @@
+---
+term: MEF
+termid: 265
+eng:
+  id: 265
+  term: MEF
+  definition: Metadata Exchange Format. An export format developed by the GeoNetwork
+    community. More details can be found in this manual in Chapter Metadata Exchange
+    Format.
+  language_code: eng
+  notes: []
+  examples: []
+  authoritative_source:
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html

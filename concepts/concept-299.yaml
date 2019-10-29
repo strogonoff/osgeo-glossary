@@ -1,0 +1,12 @@
+---
+term: OCAP
+termid: 299
+eng:
+  id: 299
+  term: OCAP
+  definition: OGC Outreach and Community Adoption (now OGC Marketing and Communications)
+  language_code: eng
+  notes: []
+  examples: []
+  authoritative_source:
+    link: https://www.opengeospatial.org/acronyms

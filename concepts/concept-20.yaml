@@ -1,0 +1,12 @@
+---
+term: AUTH ie
+termid: 20
+eng:
+  id: 20
+  term: AUTH ie
+  definition: Authentication Interoperability Experiment
+  language_code: eng
+  notes: []
+  examples: []
+  authoritative_source:
+    link: https://www.opengeospatial.org/acronyms

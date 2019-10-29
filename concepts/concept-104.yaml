@@ -1,0 +1,12 @@
+---
+term: EA
+termid: 104
+eng:
+  id: 104
+  term: EA
+  definition: Enterprise Architecture
+  language_code: eng
+  notes: []
+  examples: []
+  authoritative_source:
+    link: https://www.opengeospatial.org/acronyms

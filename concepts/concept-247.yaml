@@ -1,0 +1,13 @@
+---
+term: JSP
+termid: 247
+eng:
+  id: 247
+  term: JSP
+  definition: JavaServer Pages. A scripting system for Java server applications that
+    allows the interleaving of markup and Java procedural code.
+  language_code: eng
+  notes: []
+  examples: []
+  authoritative_source:
+    link: http://93.187.166.52:8081/opengeo-docs/glossary.html#glossary

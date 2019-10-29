@@ -1,0 +1,12 @@
+---
+term: WMO
+termid: 463
+eng:
+  id: 463
+  term: WMO
+  definition: World Meteorological Organization
+  language_code: eng
+  notes: []
+  examples: []
+  authoritative_source:
+    link: https://www.opengeospatial.org/acronyms

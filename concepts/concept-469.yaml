@@ -1,0 +1,12 @@
+---
+term: WMTS
+termid: 469
+eng:
+  id: 469
+  term: WMTS
+  definition: OGC Web Map Tile Service Interface Standard
+  language_code: eng
+  notes: []
+  examples: []
+  authoritative_source:
+    link: https://www.opengeospatial.org/acronyms

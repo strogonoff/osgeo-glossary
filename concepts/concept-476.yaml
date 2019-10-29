@@ -1,0 +1,12 @@
+---
+term: WSC
+termid: 476
+eng:
+  id: 476
+  term: WSC
+  definition: OGC Web Service Common Interface Standard
+  language_code: eng
+  notes: []
+  examples: []
+  authoritative_source:
+    link: https://www.opengeospatial.org/acronyms

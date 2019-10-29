@@ -1,0 +1,12 @@
+---
+term: TJS
+termid: 423
+eng:
+  id: 423
+  term: TJS
+  definition: OGC Georeferenced Table Joining Service Encoding Standard
+  language_code: eng
+  notes: []
+  examples: []
+  authoritative_source:
+    link: https://www.opengeospatial.org/acronyms

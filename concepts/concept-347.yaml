@@ -1,0 +1,13 @@
+---
+term: REST
+termid: 347
+eng:
+  id: 347
+  term: REST
+  definition: REpresentational State Transfer. An open, resource-oriented model for
+    implementing Web services.
+  language_code: eng
+  notes: []
+  examples: []
+  authoritative_source:
+    link: http://93.187.166.52:8081/opengeo-docs/glossary.html#glossary

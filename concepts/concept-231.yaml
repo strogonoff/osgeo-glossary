@@ -1,0 +1,13 @@
+---
+term: ISO SQL/MM
+termid: 231
+eng:
+  id: 231
+  term: ISO SQL/MM
+  definition: 'ISO/IEC 13249-3:2016 Information technology -- Database languages --
+    SQL multimedia and application packages -- Part 3: Spatial'
+  language_code: eng
+  notes: []
+  examples: []
+  authoritative_source:
+    link: Sandro

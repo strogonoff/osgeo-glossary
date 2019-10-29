@@ -1,0 +1,12 @@
+---
+term: TIGER
+termid: 420
+eng:
+  id: 420
+  term: TIGER
+  definition: Topologically Integrated Geographic Encoding and Reference file (US)
+  language_code: eng
+  notes: []
+  examples: []
+  authoritative_source:
+    link: https://www.opengeospatial.org/acronyms

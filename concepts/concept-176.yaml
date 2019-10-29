@@ -1,0 +1,12 @@
+---
+term: GloFAS
+termid: 176
+eng:
+  id: 176
+  term: GloFAS
+  definition: Global Flood Awareness System
+  language_code: eng
+  notes: []
+  examples: []
+  authoritative_source:
+    link: https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf

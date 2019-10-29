@@ -1,0 +1,12 @@
+---
+term: NLCD
+termid: 287
+eng:
+  id: 287
+  term: NLCD
+  definition: National Land Cover Dataset
+  language_code: eng
+  notes: []
+  examples: []
+  authoritative_source:
+    link: https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf

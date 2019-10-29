@@ -1,0 +1,12 @@
+---
+term: SF
+termid: 370
+eng:
+  id: 370
+  term: SF
+  definition: Simple Features
+  language_code: eng
+  notes: []
+  examples: []
+  authoritative_source:
+    link: https://www.opengeospatial.org/acronyms

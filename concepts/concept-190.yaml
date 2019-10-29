@@ -1,0 +1,12 @@
+---
+term: GPS
+termid: 190
+eng:
+  id: 190
+  term: GPS
+  definition: Global Positioning System
+  language_code: eng
+  notes: []
+  examples: []
+  authoritative_source:
+    link: https://www.opengeospatial.org/acronyms

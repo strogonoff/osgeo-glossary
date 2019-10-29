@@ -1,0 +1,13 @@
+---
+term: SLD
+termid: 383
+eng:
+  id: 383
+  term: SLD
+  definition: OGC SLDSE SWG Styled Layer Descriptor and Symbology Encoding 1.2 Standards
+    Working Group
+  language_code: eng
+  notes: []
+  examples: []
+  authoritative_source:
+    link: https://www.opengeospatial.org/acronyms

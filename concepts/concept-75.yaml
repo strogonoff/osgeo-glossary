@@ -1,0 +1,12 @@
+---
+term: DAO
+termid: 75
+eng:
+  id: 75
+  term: DAO
+  definition: Data Access Object.
+  language_code: eng
+  notes: []
+  examples: []
+  authoritative_source:
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
