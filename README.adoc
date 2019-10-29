@@ -1,0 +1,13 @@
+== OSGeo Glossary Database
+
+This repository contains the latest snapshot of glossary in YAML format,
+as well as tools for updating the glossary from the accompanying Google Sheet.
+
+The intended use is to serve as data backend for osgeo.geolexica.org and osgeo-glossary-editor app.
+
+To update YAML glossary files, run:
+
+[source,sh]
+----
+make concepts
+----
