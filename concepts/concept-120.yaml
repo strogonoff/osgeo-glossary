@@ -1,4 +1,3 @@
----
 term: Entity of a metadata
 termid: 120
 eng:
@@ -10,10 +9,11 @@ eng:
   examples: []
   type: term
   comments:
-  - |-
-    TMG_P
-    metadata entity
-    ISO 19115-1:2014, 4.12
-    set of metadata elements describing the same aspect of data
+    - |-
+      TMG_P
+      metadata entity
+      ISO 19115-1:2014, 4.12
+      set of metadata elements describing the same aspect of data
   authoritative_source:
-    link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
+    link: >-
+      https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf

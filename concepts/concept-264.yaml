@@ -1,4 +1,3 @@
----
 term: MCP
 termid: 264
 eng:
@@ -9,4 +8,4 @@ eng:
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: 'https://www.opengeospatial.org/acronyms'

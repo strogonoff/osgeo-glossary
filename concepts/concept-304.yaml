@@ -1,4 +1,3 @@
----
 term: OGC
 termid: 304
 eng:
@@ -9,4 +8,4 @@ eng:
   notes: []
   examples: []
   authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    link: 'https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html'

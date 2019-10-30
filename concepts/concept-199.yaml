@@ -1,13 +1,11 @@
----
 term: GServRestSWG
 termid: 199
 eng:
   id: 199
   term: GServRestSWG
-  definition: GeoServices REST (REpresentational State Transfer) Standards Working
-    Group
+  definition: GeoServices REST (REpresentational State Transfer) Standards Working Group
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: 'https://www.opengeospatial.org/acronyms'

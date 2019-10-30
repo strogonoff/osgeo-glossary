@@ -1,4 +1,3 @@
----
 term: EPSG
 termid: 127
 eng:
@@ -9,4 +8,4 @@ eng:
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf
+    link: 'https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf'

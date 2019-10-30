@@ -1,4 +1,3 @@
----
 term: ISO Technical Committee 211 (ISO TC/211)
 termid: 234
 eng:
@@ -9,4 +8,4 @@ eng:
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: 'https://www.opengeospatial.org/acronyms'

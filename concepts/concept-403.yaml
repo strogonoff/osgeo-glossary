@@ -1,4 +1,3 @@
----
 term: SRS
 termid: 403
 eng:
@@ -9,4 +8,4 @@ eng:
   notes: []
   examples: []
   authoritative_source:
-    link: http://93.187.166.52:8081/opengeo-docs/glossary.html#glossary
+    link: 'http://93.187.166.52:8081/opengeo-docs/glossary.html#glossary'

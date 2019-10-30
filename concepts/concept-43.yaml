@@ -1,4 +1,3 @@
----
 term: CGI
 termid: 43
 eng:
@@ -9,4 +8,4 @@ eng:
   notes: []
   examples: []
   authoritative_source:
-    link: https://mapserver.org/glossary.html
+    link: 'https://mapserver.org/glossary.html'

@@ -1,4 +1,3 @@
----
 term: CRS
 termid: 61
 eng:
@@ -9,6 +8,6 @@ eng:
   notes: []
   examples: []
   comments:
-  - TMG_P
+    - TMG_P
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: 'https://www.opengeospatial.org/acronyms'

@@ -1,4 +1,3 @@
----
 term: FreeType
 termid: 148
 eng:
@@ -9,4 +8,4 @@ eng:
   examples: []
   type: other
   authoritative_source:
-    link: https://mapserver.org/glossary.html
+    link: 'https://mapserver.org/glossary.html'

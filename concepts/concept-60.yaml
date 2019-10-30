@@ -1,4 +1,3 @@
----
 term: CRS
 termid: 60
 eng:
@@ -9,6 +8,6 @@ eng:
   notes: []
   examples: []
   comments:
-  - TMG_P
+    - TMG_P
   authoritative_source:
-    link: http://93.187.166.52:8081/opengeo-docs/glossary.html#glossary
+    link: 'http://93.187.166.52:8081/opengeo-docs/glossary.html#glossary'
