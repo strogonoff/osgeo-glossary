@@ -6,10 +6,10 @@ eng:
   definition: >-
     ADL Gazetteer Content Standard.
 
-    Although it is not an official standard it is the de facto set of rules used
-    to defined the relationship between a toponym and its coordinates. It can
-    supply other attributes such as the region where the toponym is settled, or
-    the nature of this datum.
+    Although it is not an official standard, it is the de facto set of rules
+    used to defined the relationship between a toponym and its coordinates. It
+    can supply other attributes such as the region where the toponym is settled,
+    or the nature of this datum.
   language_code: eng
   notes: []
   examples: []
