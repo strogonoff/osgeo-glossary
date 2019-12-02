@@ -1,13 +1,19 @@
 == OSGeo Glossary Database
 
-This repository contains the latest snapshot of glossary in YAML format,
-as well as tools for updating the glossary from the accompanying Google Sheet.
+This repository contains the latest snapshot of the glossary in YAML format.
+The intended use is to serve as data backend for https://osgeo.geolexica.org/
+and the https://github.com/geolexica/osgeo-glossarist[osgeo-glossarist] desktop app.
 
-The intended use is to serve as data backend for osgeo.geolexica.org and osgeo-glossary-editor app.
+=== Migrating from legacy glossary sources
 
-To update YAML glossary files, run:
+For data migration period, facilities to automatically populate the glossary
+from legacy sources are included.
+
+To rewrite YAML glossary with data migrated from those sources, run:
 
 [source,sh]
 ----
 make concepts
 ----
+
+See https://github.com/geolexica/osgeo-termbase[osgeo-termbase] for migration logic implementation.
