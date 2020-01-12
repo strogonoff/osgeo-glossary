@@ -1,6 +1,6 @@
 == OSGeo Glossary Database
 
-This repository contains the latest snapshot of the glossary in YAML format.
+This proto-type repository contains the latest snapshot of the glossary in YAML format.
 The intended use is to serve as data backend for https://osgeo.geolexica.org/
 and the https://github.com/geolexica/osgeo-glossarist[osgeo-glossarist] desktop app.
 
