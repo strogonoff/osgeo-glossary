@@ -1,17 +1,45 @@
----
 term: CSDGM
 termid: 65
 eng:
   id: 65
-  definition: "(Content Standard for Digital Geospatial Metadata) Determines the metadata
-    that exists in a geographical position and how to access to them. It does explain
-    neither how to organize the data in a computer nor which software to use."
+  definition: >-
+    (Content Standard for Digital Geospatial Metadata) Determines the metadata
+    that exists in a geographical position and how to access to them. It does
+    explain neither how to organize the data in a computer nor which software to
+    use.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
+    link: >-
+      https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
   terms:
-  - type: expression
-    designation: CSDGM
-    normative_status: 
+    - type: expression
+      designation: CSDGM
+      normative_status: null
+  _revisions:
+    current: 63f5e3
+    tree:
+      63f5e3:
+        object:
+          id: 65
+          definition: >-
+            (Content Standard for Digital Geospatial Metadata) Determines the
+            metadata that exists in a geographical position and how to access to
+            them. It does explain neither how to organize the data in a computer
+            nor which software to use.
+          language_code: eng
+          notes: []
+          examples: []
+          authoritative_source:
+            link: >-
+              https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
+          terms:
+            - type: expression
+              designation: CSDGM
+              normative_status: null
+        parents: []
+        timeCreated: 2020-07-08T12:52:06.362Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com

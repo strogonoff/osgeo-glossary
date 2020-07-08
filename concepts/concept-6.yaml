@@ -1,15 +1,35 @@
----
 term: AECOO
 termid: 6
 eng:
   id: 6
-  definition: Architecture, Engineering, Construction, Owner and Operator
+  definition: 'Architecture, Engineering, Construction, Owner and Operator'
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: 'https://www.opengeospatial.org/acronyms'
   terms:
-  - type: expression
-    designation: AECOO
-    normative_status: 
+    - type: expression
+      designation: AECOO
+      normative_status: null
+  _revisions:
+    current: fe7382
+    tree:
+      fe7382:
+        object:
+          id: 6
+          definition: 'Architecture, Engineering, Construction, Owner and Operator'
+          language_code: eng
+          notes: []
+          examples: []
+          authoritative_source:
+            link: 'https://www.opengeospatial.org/acronyms'
+          terms:
+            - type: expression
+              designation: AECOO
+              normative_status: null
+        parents: []
+        timeCreated: 2020-07-08T12:52:06.361Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com

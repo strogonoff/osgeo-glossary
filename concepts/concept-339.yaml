@@ -1,17 +1,42 @@
----
 term: Projection
 termid: 339
 eng:
   id: 339
-  definition: A map projection is a mathematical transformation of the surface of
-    a sphere (3D) onto a 2D plane. Due to the laws of the universe, each type of projection
-    must make tradeoffs on how and what features it distorts.
+  definition: >-
+    A map projection is a mathematical transformation of the surface of a sphere
+    (3D) onto a 2D plane. Due to the laws of the universe, each type of
+    projection must make tradeoffs on how and what features it distorts.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://mapserver.org/glossary.html
+    link: 'https://mapserver.org/glossary.html'
   terms:
-  - type: expression
-    designation: Projection
-    normative_status: 
+    - type: expression
+      designation: Projection
+      normative_status: null
+  _revisions:
+    current: b1402a
+    tree:
+      b1402a:
+        object:
+          id: 339
+          definition: >-
+            A map projection is a mathematical transformation of the surface of
+            a sphere (3D) onto a 2D plane. Due to the laws of the universe, each
+            type of projection must make tradeoffs on how and what features it
+            distorts.
+          language_code: eng
+          notes: []
+          examples: []
+          authoritative_source:
+            link: 'https://mapserver.org/glossary.html'
+          terms:
+            - type: expression
+              designation: Projection
+              normative_status: null
+        parents: []
+        timeCreated: 2020-07-08T12:52:06.366Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com

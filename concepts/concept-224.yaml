@@ -1,16 +1,39 @@
----
 term: IP
 termid: 224
 eng:
   id: 224
-  definition: Depending on context, either Intellectual Property or Interoperability
+  definition: >-
+    Depending on context, either Intellectual Property or Interoperability
     Program
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: 'https://www.opengeospatial.org/acronyms'
   terms:
-  - type: expression
-    designation: IP
-    normative_status: 
+    - type: expression
+      designation: IP
+      normative_status: null
+  _revisions:
+    current: c22ebb
+    tree:
+      c22ebb:
+        object:
+          id: 224
+          definition: >-
+            Depending on context, either Intellectual Property or
+            Interoperability Program
+          language_code: eng
+          notes: []
+          examples: []
+          authoritative_source:
+            link: 'https://www.opengeospatial.org/acronyms'
+          terms:
+            - type: expression
+              designation: IP
+              normative_status: null
+        parents: []
+        timeCreated: 2020-07-08T12:52:06.364Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com

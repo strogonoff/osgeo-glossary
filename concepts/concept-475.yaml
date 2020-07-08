@@ -1,4 +1,3 @@
----
 term: WS
 termid: 475
 eng:
@@ -8,8 +7,29 @@ eng:
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: 'https://www.opengeospatial.org/acronyms'
   terms:
-  - type: expression
-    designation: WS
-    normative_status: 
+    - type: expression
+      designation: WS
+      normative_status: null
+  _revisions:
+    current: d3ed00
+    tree:
+      d3ed00:
+        object:
+          id: 475
+          definition: Web Services
+          language_code: eng
+          notes: []
+          examples: []
+          authoritative_source:
+            link: 'https://www.opengeospatial.org/acronyms'
+          terms:
+            - type: expression
+              designation: WS
+              normative_status: null
+        parents: []
+        timeCreated: 2020-07-08T12:52:06.368Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com

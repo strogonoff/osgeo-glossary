@@ -1,4 +1,3 @@
----
 term: EPSG
 termid: 128
 eng:
@@ -8,8 +7,31 @@ eng:
   notes: []
   examples: []
   authoritative_source:
-    link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
+    link: >-
+      https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
   terms:
-  - type: expression
-    designation: EPSG
-    normative_status: 
+    - type: expression
+      designation: EPSG
+      normative_status: null
+  _revisions:
+    current: 2810fd
+    tree:
+      2810fd:
+        object:
+          id: 128
+          definition: European Petroleum Survey Group.
+          language_code: eng
+          notes: []
+          examples: []
+          authoritative_source:
+            link: >-
+              https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
+          terms:
+            - type: expression
+              designation: EPSG
+              normative_status: null
+        parents: []
+        timeCreated: 2020-07-08T12:52:06.363Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com

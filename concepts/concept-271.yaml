@@ -1,4 +1,3 @@
----
 term: MMI
 termid: 271
 eng:
@@ -8,8 +7,29 @@ eng:
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: 'https://www.opengeospatial.org/acronyms'
   terms:
-  - type: expression
-    designation: MMI
-    normative_status: 
+    - type: expression
+      designation: MMI
+      normative_status: null
+  _revisions:
+    current: '142e21'
+    tree:
+      '142e21':
+        object:
+          id: 271
+          definition: OGC`s Multi-Hazard Mapping Initiative (MMI) Phase I (2001)
+          language_code: eng
+          notes: []
+          examples: []
+          authoritative_source:
+            link: 'https://www.opengeospatial.org/acronyms'
+          terms:
+            - type: expression
+              designation: MMI
+              normative_status: null
+        parents: []
+        timeCreated: 2020-07-08T12:52:06.365Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com

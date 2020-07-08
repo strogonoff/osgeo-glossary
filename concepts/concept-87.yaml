@@ -1,4 +1,3 @@
----
 term: DEMTS
 termid: 87
 eng:
@@ -8,8 +7,29 @@ eng:
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: 'https://www.opengeospatial.org/acronyms'
   terms:
-  - type: expression
-    designation: DEMTS
-    normative_status: 
+    - type: expression
+      designation: DEMTS
+      normative_status: null
+  _revisions:
+    current: f820dd
+    tree:
+      f820dd:
+        object:
+          id: 87
+          definition: Digital and Electronic Maps Transfer Standard (Russia)
+          language_code: eng
+          notes: []
+          examples: []
+          authoritative_source:
+            link: 'https://www.opengeospatial.org/acronyms'
+          terms:
+            - type: expression
+              designation: DEMTS
+              normative_status: null
+        parents: []
+        timeCreated: 2020-07-08T12:52:06.362Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com

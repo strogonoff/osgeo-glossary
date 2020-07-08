@@ -1,18 +1,45 @@
----
 term: Shibboleth
 termid: 376
 eng:
   id: 376
-  definition: The Shibboleth System is a standards based, open source software package
-    for web single sign-on across or within organisational boundaries. It allows sites
-    to make informed authorisation decisions for individual access of protected online
-    resources in a privacy-preserving manner.
+  definition: >-
+    The Shibboleth System is a standards based, open source software package for
+    web single sign-on across or within organisational boundaries. It allows
+    sites to make informed authorisation decisions for individual access of
+    protected online resources in a privacy-preserving manner.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    link: 'https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html'
   terms:
-  - type: expression
-    designation: Shibboleth
-    normative_status: 
+    - type: expression
+      designation: Shibboleth
+      normative_status: null
+  _revisions:
+    current: 53c937
+    tree:
+      53c937:
+        object:
+          id: 376
+          definition: >-
+            The Shibboleth System is a standards based, open source software
+            package for web single sign-on across or within organisational
+            boundaries. It allows sites to make informed authorisation decisions
+            for individual access of protected online resources in a
+            privacy-preserving manner.
+          language_code: eng
+          notes: []
+          examples: []
+          authoritative_source:
+            link: >-
+              https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+          terms:
+            - type: expression
+              designation: Shibboleth
+              normative_status: null
+        parents: []
+        timeCreated: 2020-07-08T12:52:06.367Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com

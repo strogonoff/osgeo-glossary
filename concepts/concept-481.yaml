@@ -1,16 +1,40 @@
----
 term: XSD
 termid: 481
 eng:
   id: 481
-  definition: XML Schema, published as a W3C recommendation in May 2001, is one of
-    several XML schema languages. http://en.wikipedia.org/wiki/XSD
+  definition: >-
+    XML Schema, published as a W3C recommendation in May 2001, is one of several
+    XML schema languages. http://en.wikipedia.org/wiki/XSD
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    link: 'https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html'
   terms:
-  - type: expression
-    designation: XSD
-    normative_status: 
+    - type: expression
+      designation: XSD
+      normative_status: null
+  _revisions:
+    current: f17822
+    tree:
+      f17822:
+        object:
+          id: 481
+          definition: >-
+            XML Schema, published as a W3C recommendation in May 2001, is one of
+            several XML schema languages. http://en.wikipedia.org/wiki/XSD
+          language_code: eng
+          notes: []
+          examples: []
+          authoritative_source:
+            link: >-
+              https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+          terms:
+            - type: expression
+              designation: XSD
+              normative_status: null
+        parents: []
+        timeCreated: 2020-07-08T12:52:06.368Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com

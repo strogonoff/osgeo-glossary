@@ -1,4 +1,3 @@
----
 term: CityGML
 termid: 47
 eng:
@@ -8,8 +7,29 @@ eng:
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: 'https://www.opengeospatial.org/acronyms'
   terms:
-  - type: expression
-    designation: CityGML
-    normative_status: 
+    - type: expression
+      designation: CityGML
+      normative_status: null
+  _revisions:
+    current: '2e0945'
+    tree:
+      '2e0945':
+        object:
+          id: 47
+          definition: OGC City Geography Markup Language (CityGML) Encoding Standard
+          language_code: eng
+          notes: []
+          examples: []
+          authoritative_source:
+            link: 'https://www.opengeospatial.org/acronyms'
+          terms:
+            - type: expression
+              designation: CityGML
+              normative_status: null
+        parents: []
+        timeCreated: 2020-07-08T12:52:06.362Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com

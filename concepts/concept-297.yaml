@@ -1,18 +1,45 @@
----
 term: OAI-PMH
 termid: 297
 eng:
   id: 297
-  definition: Open Archive Initiative Protocol for Metadata Harvesting. It is a protocol
-    developed by the Open Archives Initiative. It is used to harvest (or collect)
-    the metadata descriptions of the records in an archive so that services can be
-    built using metadata from many archives.
+  definition: >-
+    Open Archive Initiative Protocol for Metadata Harvesting. It is a protocol
+    developed by the Open Archives Initiative. It is used to harvest (or
+    collect) the metadata descriptions of the records in an archive so that
+    services can be built using metadata from many archives.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    link: 'https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html'
   terms:
-  - type: expression
-    designation: OAI-PMH
-    normative_status: 
+    - type: expression
+      designation: OAI-PMH
+      normative_status: null
+  _revisions:
+    current: ddb12a
+    tree:
+      ddb12a:
+        object:
+          id: 297
+          definition: >-
+            Open Archive Initiative Protocol for Metadata Harvesting. It is a
+            protocol developed by the Open Archives Initiative. It is used to
+            harvest (or collect) the metadata descriptions of the records in an
+            archive so that services can be built using metadata from many
+            archives.
+          language_code: eng
+          notes: []
+          examples: []
+          authoritative_source:
+            link: >-
+              https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+          terms:
+            - type: expression
+              designation: OAI-PMH
+              normative_status: null
+        parents: []
+        timeCreated: 2020-07-08T12:52:06.366Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com

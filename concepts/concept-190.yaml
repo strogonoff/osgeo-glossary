@@ -1,4 +1,3 @@
----
 term: GPS
 termid: 190
 eng:
@@ -8,8 +7,29 @@ eng:
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: 'https://www.opengeospatial.org/acronyms'
   terms:
-  - type: expression
-    designation: GPS
-    normative_status: 
+    - type: expression
+      designation: GPS
+      normative_status: null
+  _revisions:
+    current: 9cb7e6
+    tree:
+      9cb7e6:
+        object:
+          id: 190
+          definition: Global Positioning System
+          language_code: eng
+          notes: []
+          examples: []
+          authoritative_source:
+            link: 'https://www.opengeospatial.org/acronyms'
+          terms:
+            - type: expression
+              designation: GPS
+              normative_status: null
+        parents: []
+        timeCreated: 2020-07-08T12:52:06.364Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com

@@ -1,9 +1,9 @@
----
 term: GRIB
 termid: 194
 eng:
   id: 194
-  definition: GRIB data format (GRIdded Binary), which is a standard of the World
+  definition: >-
+    GRIB data format (GRIdded Binary), which is a standard of the World
     Meteorological Organisation (WMO). (See https://en.wikipedia.org/wiki/GRIB.)
   language_code: eng
   notes: []
@@ -11,6 +11,30 @@ eng:
   authoritative_source:
     link: Jon Blower
   terms:
-  - type: expression
-    designation: GRIB
-    normative_status: 
+    - type: expression
+      designation: GRIB
+      normative_status: null
+  _revisions:
+    current: 8a0d52
+    tree:
+      8a0d52:
+        object:
+          id: 194
+          definition: >-
+            GRIB data format (GRIdded Binary), which is a standard of the World
+            Meteorological Organisation (WMO). (See
+            https://en.wikipedia.org/wiki/GRIB.)
+          language_code: eng
+          notes: []
+          examples: []
+          authoritative_source:
+            link: Jon Blower
+          terms:
+            - type: expression
+              designation: GRIB
+              normative_status: null
+        parents: []
+        timeCreated: 2020-07-08T12:52:06.364Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com

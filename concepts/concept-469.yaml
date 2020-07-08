@@ -1,4 +1,3 @@
----
 term: WMTS
 termid: 469
 eng:
@@ -8,8 +7,29 @@ eng:
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: 'https://www.opengeospatial.org/acronyms'
   terms:
-  - type: expression
-    designation: WMTS
-    normative_status: 
+    - type: expression
+      designation: WMTS
+      normative_status: null
+  _revisions:
+    current: 671ac9
+    tree:
+      671ac9:
+        object:
+          id: 469
+          definition: OGC Web Map Tile Service Interface Standard
+          language_code: eng
+          notes: []
+          examples: []
+          authoritative_source:
+            link: 'https://www.opengeospatial.org/acronyms'
+          terms:
+            - type: expression
+              designation: WMTS
+              normative_status: null
+        parents: []
+        timeCreated: 2020-07-08T12:52:06.368Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com

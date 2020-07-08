@@ -1,16 +1,39 @@
----
 term: API
 termid: 13
 eng:
   id: 13
-  definition: Application Programming Interface. A set of routines, procedures, protocols,
+  definition: >-
+    Application Programming Interface. A set of routines, procedures, protocols,
     and tools for building software applications.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: http://93.187.166.52:8081/opengeo-docs/glossary.html#glossary
+    link: 'http://93.187.166.52:8081/opengeo-docs/glossary.html#glossary'
   terms:
-  - type: expression
-    designation: API
-    normative_status: 
+    - type: expression
+      designation: API
+      normative_status: null
+  _revisions:
+    current: b08598
+    tree:
+      b08598:
+        object:
+          id: 13
+          definition: >-
+            Application Programming Interface. A set of routines, procedures,
+            protocols, and tools for building software applications.
+          language_code: eng
+          notes: []
+          examples: []
+          authoritative_source:
+            link: 'http://93.187.166.52:8081/opengeo-docs/glossary.html#glossary'
+          terms:
+            - type: expression
+              designation: API
+              normative_status: null
+        parents: []
+        timeCreated: 2020-07-08T12:52:06.361Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com

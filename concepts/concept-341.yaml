@@ -1,15 +1,39 @@
----
 term: PUCK
 termid: 341
 eng:
   id: 341
-  definition: OGC standard defining a protocol for RS232 and Ethernet connected instruments
+  definition: >-
+    OGC standard defining a protocol for RS232 and Ethernet connected
+    instruments
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: 'https://www.opengeospatial.org/acronyms'
   terms:
-  - type: expression
-    designation: PUCK
-    normative_status: 
+    - type: expression
+      designation: PUCK
+      normative_status: null
+  _revisions:
+    current: '8332e3'
+    tree:
+      '8332e3':
+        object:
+          id: 341
+          definition: >-
+            OGC standard defining a protocol for RS232 and Ethernet connected
+            instruments
+          language_code: eng
+          notes: []
+          examples: []
+          authoritative_source:
+            link: 'https://www.opengeospatial.org/acronyms'
+          terms:
+            - type: expression
+              designation: PUCK
+              normative_status: null
+        parents: []
+        timeCreated: 2020-07-08T12:52:06.366Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com

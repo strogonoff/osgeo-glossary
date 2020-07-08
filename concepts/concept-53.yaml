@@ -1,15 +1,35 @@
----
 term: COM
 termid: 53
 eng:
   id: 53
-  definition: Common Object Model, a Microsoft paradigm to connect components
+  definition: 'Common Object Model, a Microsoft paradigm to connect components'
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: 'https://www.opengeospatial.org/acronyms'
   terms:
-  - type: expression
-    designation: COM
-    normative_status: 
+    - type: expression
+      designation: COM
+      normative_status: null
+  _revisions:
+    current: 0f0ba6
+    tree:
+      0f0ba6:
+        object:
+          id: 53
+          definition: 'Common Object Model, a Microsoft paradigm to connect components'
+          language_code: eng
+          notes: []
+          examples: []
+          authoritative_source:
+            link: 'https://www.opengeospatial.org/acronyms'
+          terms:
+            - type: expression
+              designation: COM
+              normative_status: null
+        parents: []
+        timeCreated: 2020-07-08T12:52:06.362Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com

@@ -1,16 +1,39 @@
----
 term: OGR
 termid: 311
 eng:
   id: 311
-  definition: OGR is the vector data access portion of the GDAL library. It provides
+  definition: >-
+    OGR is the vector data access portion of the GDAL library. It provides
     access to a multitude of data formats.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://mapserver.org/glossary.html
+    link: 'https://mapserver.org/glossary.html'
   terms:
-  - type: expression
-    designation: OGR
-    normative_status: 
+    - type: expression
+      designation: OGR
+      normative_status: null
+  _revisions:
+    current: 7ff6d2
+    tree:
+      7ff6d2:
+        object:
+          id: 311
+          definition: >-
+            OGR is the vector data access portion of the GDAL library. It
+            provides access to a multitude of data formats.
+          language_code: eng
+          notes: []
+          examples: []
+          authoritative_source:
+            link: 'https://mapserver.org/glossary.html'
+          terms:
+            - type: expression
+              designation: OGR
+              normative_status: null
+        parents: []
+        timeCreated: 2020-07-08T12:52:06.366Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com

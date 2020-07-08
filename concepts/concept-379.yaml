@@ -1,15 +1,37 @@
----
 term: SIGTE
 termid: 379
 eng:
   id: 379
-  definition: The GIS and Remote Sensing Service of the University of Girona, Spain
+  definition: 'The GIS and Remote Sensing Service of the University of Girona, Spain'
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf
+    link: 'https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf'
   terms:
-  - type: expression
-    designation: SIGTE
-    normative_status: 
+    - type: expression
+      designation: SIGTE
+      normative_status: null
+  _revisions:
+    current: 9c823b
+    tree:
+      9c823b:
+        object:
+          id: 379
+          definition: >-
+            The GIS and Remote Sensing Service of the University of Girona,
+            Spain
+          language_code: eng
+          notes: []
+          examples: []
+          authoritative_source:
+            link: 'https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf'
+          terms:
+            - type: expression
+              designation: SIGTE
+              normative_status: null
+        parents: []
+        timeCreated: 2020-07-08T12:52:06.367Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com

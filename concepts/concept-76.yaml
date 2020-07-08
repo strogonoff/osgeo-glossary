@@ -1,19 +1,46 @@
----
 term: Data Store
 termid: 76
 eng:
   id: 76
-  definition: A GeoServer data store represents a connection to a source of raster
-    or vector data, such as a file or group of files, a database table, and so on.
+  definition: >-
+    A GeoServer data store represents a connection to a source of raster or
+    vector data, such as a file or group of files, a database table, and so on.
   language_code: eng
   notes: []
   examples: []
   type: soft
   comments:
-  - TMG_NP
+    - TMG_NP
   authoritative_source:
-    link: http://93.187.166.52:8081/opengeo-docs/glossary.html#glossary
+    link: 'http://93.187.166.52:8081/opengeo-docs/glossary.html#glossary'
   terms:
-  - type: expression
-    designation: Data Store
-    normative_status: 
+    - type: expression
+      designation: Data Store
+      normative_status: null
+  _revisions:
+    current: fadac2
+    tree:
+      fadac2:
+        object:
+          id: 76
+          definition: >-
+            A GeoServer data store represents a connection to a source of raster
+            or vector data, such as a file or group of files, a database table,
+            and so on.
+          language_code: eng
+          notes: []
+          examples: []
+          type: soft
+          comments:
+            - TMG_NP
+          authoritative_source:
+            link: 'http://93.187.166.52:8081/opengeo-docs/glossary.html#glossary'
+          terms:
+            - type: expression
+              designation: Data Store
+              normative_status: null
+        parents: []
+        timeCreated: 2020-07-08T12:52:06.362Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com

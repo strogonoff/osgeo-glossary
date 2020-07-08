@@ -1,19 +1,47 @@
----
 term: ISO TC211
 termid: 232
 eng:
   id: 232
-  definition: ISO/TC 211 is a standard technical committee formed within ISO, tasked
-    with covering the areas of digital geographic information (such as used by geographic
-    information systems) and geomatics. It is responsible for preparation of a series
-    of International Standards and Technical Specifications numbered in the range
-    starting at 19101.
+  definition: >-
+    ISO/TC 211 is a standard technical committee formed within ISO, tasked with
+    covering the areas of digital geographic information (such as used by
+    geographic information systems) and geomatics. It is responsible for
+    preparation of a series of International Standards and Technical
+    Specifications numbered in the range starting at 19101.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    link: 'https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html'
   terms:
-  - type: expression
-    designation: ISO TC211
-    normative_status: 
+    - type: expression
+      designation: ISO TC211
+      normative_status: null
+  _revisions:
+    current: a04741
+    tree:
+      a04741:
+        object:
+          id: 232
+          definition: >-
+            ISO/TC 211 is a standard technical committee formed within ISO,
+            tasked with covering the areas of digital geographic information
+            (such as used by geographic information systems) and geomatics. It
+            is responsible for preparation of a series of International
+            Standards and Technical Specifications numbered in the range
+            starting at 19101.
+          language_code: eng
+          notes: []
+          examples: []
+          authoritative_source:
+            link: >-
+              https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+          terms:
+            - type: expression
+              designation: ISO TC211
+              normative_status: null
+        parents: []
+        timeCreated: 2020-07-08T12:52:06.365Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com

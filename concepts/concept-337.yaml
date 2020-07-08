@@ -1,17 +1,41 @@
----
 term: PROJ
 termid: 337
 eng:
   id: 337
-  definition: PROJ (formerly referred to as PROJ.4) is a library for projecting map
-    data. It is used by MapServer and GDAL and a multitude of other Open Source GIS
+  definition: >-
+    PROJ (formerly referred to as PROJ.4) is a library for projecting map data.
+    It is used by MapServer and GDAL and a multitude of other Open Source GIS
     libraries.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://mapserver.org/glossary.html
+    link: 'https://mapserver.org/glossary.html'
   terms:
-  - type: expression
-    designation: PROJ
-    normative_status: 
+    - type: expression
+      designation: PROJ
+      normative_status: null
+  _revisions:
+    current: 788cdc
+    tree:
+      788cdc:
+        object:
+          id: 337
+          definition: >-
+            PROJ (formerly referred to as PROJ.4) is a library for projecting
+            map data. It is used by MapServer and GDAL and a multitude of other
+            Open Source GIS libraries.
+          language_code: eng
+          notes: []
+          examples: []
+          authoritative_source:
+            link: 'https://mapserver.org/glossary.html'
+          terms:
+            - type: expression
+              designation: PROJ
+              normative_status: null
+        parents: []
+        timeCreated: 2020-07-08T12:52:06.366Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com

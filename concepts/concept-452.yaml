@@ -1,16 +1,41 @@
----
 term: WFS
 termid: 452
 eng:
   id: 452
-  definition: WFS is an OGC standard that describes how to systematically produce
-    structured Vector cartographic data from a service and return them to a client.
+  definition: >-
+    WFS is an OGC standard that describes how to systematically produce
+    structured Vector cartographic data from a service and return them to a
+    client.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://mapserver.org/glossary.html
+    link: 'https://mapserver.org/glossary.html'
   terms:
-  - type: expression
-    designation: WFS
-    normative_status: 
+    - type: expression
+      designation: WFS
+      normative_status: null
+  _revisions:
+    current: 3435b4
+    tree:
+      3435b4:
+        object:
+          id: 452
+          definition: >-
+            WFS is an OGC standard that describes how to systematically produce
+            structured Vector cartographic data from a service and return them
+            to a client.
+          language_code: eng
+          notes: []
+          examples: []
+          authoritative_source:
+            link: 'https://mapserver.org/glossary.html'
+          terms:
+            - type: expression
+              designation: WFS
+              normative_status: null
+        parents: []
+        timeCreated: 2020-07-08T12:52:06.368Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com

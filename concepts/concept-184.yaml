@@ -1,4 +1,3 @@
----
 term: GO
 termid: 184
 eng:
@@ -8,8 +7,29 @@ eng:
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: 'https://www.opengeospatial.org/acronyms'
   terms:
-  - type: expression
-    designation: GO
-    normative_status: 
+    - type: expression
+      designation: GO
+      normative_status: null
+  _revisions:
+    current: 705f98
+    tree:
+      705f98:
+        object:
+          id: 184
+          definition: Geospatial Objects (a retired OGC standard)
+          language_code: eng
+          notes: []
+          examples: []
+          authoritative_source:
+            link: 'https://www.opengeospatial.org/acronyms'
+          terms:
+            - type: expression
+              designation: GO
+              normative_status: null
+        parents: []
+        timeCreated: 2020-07-08T12:52:06.364Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com

@@ -1,4 +1,3 @@
----
 term: SFS
 termid: 373
 eng:
@@ -8,8 +7,29 @@ eng:
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: 'https://www.opengeospatial.org/acronyms'
   terms:
-  - type: expression
-    designation: SFS
-    normative_status: 
+    - type: expression
+      designation: SFS
+      normative_status: null
+  _revisions:
+    current: a05da5
+    tree:
+      a05da5:
+        object:
+          id: 373
+          definition: OGC Simple FeaturesSQL Encoding Standard
+          language_code: eng
+          notes: []
+          examples: []
+          authoritative_source:
+            link: 'https://www.opengeospatial.org/acronyms'
+          terms:
+            - type: expression
+              designation: SFS
+              normative_status: null
+        parents: []
+        timeCreated: 2020-07-08T12:52:06.367Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com

@@ -1,17 +1,44 @@
----
 term: SKOS
 termid: 380
 eng:
   id: 380
-  definition: The Simple Knowledge Organisation Systems (SKOS) is an area of work
-    developing specifications and standards to support the use of knowledge organisation
-    systems (KOS) such as thesauri, classification schemes. http://www.w3.org/2004/02/skos/
+  definition: >-
+    The Simple Knowledge Organisation Systems (SKOS) is an area of work
+    developing specifications and standards to support the use of knowledge
+    organisation systems (KOS) such as thesauri, classification schemes.
+    http://www.w3.org/2004/02/skos/
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    link: 'https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html'
   terms:
-  - type: expression
-    designation: SKOS
-    normative_status: 
+    - type: expression
+      designation: SKOS
+      normative_status: null
+  _revisions:
+    current: c8f587
+    tree:
+      c8f587:
+        object:
+          id: 380
+          definition: >-
+            The Simple Knowledge Organisation Systems (SKOS) is an area of work
+            developing specifications and standards to support the use of
+            knowledge organisation systems (KOS) such as thesauri,
+            classification schemes. http://www.w3.org/2004/02/skos/
+          language_code: eng
+          notes: []
+          examples: []
+          authoritative_source:
+            link: >-
+              https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+          terms:
+            - type: expression
+              designation: SKOS
+              normative_status: null
+        parents: []
+        timeCreated: 2020-07-08T12:52:06.367Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com

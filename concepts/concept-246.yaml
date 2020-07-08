@@ -1,17 +1,41 @@
----
 term: JSON
 termid: 246
 eng:
   id: 246
-  definition: JavaScript Object Notation. A text format that is very fast to parse
-    in JavaScript virtual machines. In spatial, the extended specification for GeoJSON
-    is commonly used.
+  definition: >-
+    JavaScript Object Notation. A text format that is very fast to parse in
+    JavaScript virtual machines. In spatial, the extended specification for
+    GeoJSON is commonly used.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: http://93.187.166.52:8081/opengeo-docs/glossary.html#glossary
+    link: 'http://93.187.166.52:8081/opengeo-docs/glossary.html#glossary'
   terms:
-  - type: expression
-    designation: JSON
-    normative_status: 
+    - type: expression
+      designation: JSON
+      normative_status: null
+  _revisions:
+    current: 8fc6c4
+    tree:
+      8fc6c4:
+        object:
+          id: 246
+          definition: >-
+            JavaScript Object Notation. A text format that is very fast to parse
+            in JavaScript virtual machines. In spatial, the extended
+            specification for GeoJSON is commonly used.
+          language_code: eng
+          notes: []
+          examples: []
+          authoritative_source:
+            link: 'http://93.187.166.52:8081/opengeo-docs/glossary.html#glossary'
+          terms:
+            - type: expression
+              designation: JSON
+              normative_status: null
+        parents: []
+        timeCreated: 2020-07-08T12:52:06.365Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com

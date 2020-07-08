@@ -1,18 +1,45 @@
----
 term: GEOS
 termid: 162
 eng:
   id: 162
-  definition: Geometry Engine Open Source is a C/C++ port of the Java Topology Suite.
-    It is used for geometric algebra operations like determining if a polygon is contained
-    in another polygon or determining the resultant intersection of two or more polygons.
-    MapServer optionally uses GEOS for geometric algebra operations.
+  definition: >-
+    Geometry Engine Open Source is a C/C++ port of the Java Topology Suite. It
+    is used for geometric algebra operations like determining if a polygon is
+    contained in another polygon or determining the resultant intersection of
+    two or more polygons. MapServer optionally uses GEOS for geometric algebra
+    operations.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://mapserver.org/glossary.html
+    link: 'https://mapserver.org/glossary.html'
   terms:
-  - type: expression
-    designation: GEOS
-    normative_status: 
+    - type: expression
+      designation: GEOS
+      normative_status: null
+  _revisions:
+    current: 784a51
+    tree:
+      784a51:
+        object:
+          id: 162
+          definition: >-
+            Geometry Engine Open Source is a C/C++ port of the Java Topology
+            Suite. It is used for geometric algebra operations like determining
+            if a polygon is contained in another polygon or determining the
+            resultant intersection of two or more polygons. MapServer optionally
+            uses GEOS for geometric algebra operations.
+          language_code: eng
+          notes: []
+          examples: []
+          authoritative_source:
+            link: 'https://mapserver.org/glossary.html'
+          terms:
+            - type: expression
+              designation: GEOS
+              normative_status: null
+        parents: []
+        timeCreated: 2020-07-08T12:52:06.364Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com

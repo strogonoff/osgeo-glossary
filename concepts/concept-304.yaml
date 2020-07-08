@@ -1,4 +1,3 @@
----
 term: OGC
 termid: 304
 eng:
@@ -8,8 +7,30 @@ eng:
   notes: []
   examples: []
   authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    link: 'https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html'
   terms:
-  - type: expression
-    designation: OGC
-    normative_status: 
+    - type: expression
+      designation: OGC
+      normative_status: null
+  _revisions:
+    current: 88faa1
+    tree:
+      88faa1:
+        object:
+          id: 304
+          definition: Open Geospatial Consortium
+          language_code: eng
+          notes: []
+          examples: []
+          authoritative_source:
+            link: >-
+              https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+          terms:
+            - type: expression
+              designation: OGC
+              normative_status: null
+        parents: []
+        timeCreated: 2020-07-08T12:52:06.366Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com

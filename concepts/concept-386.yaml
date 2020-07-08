@@ -1,4 +1,3 @@
----
 term: SMAC
 termid: 386
 eng:
@@ -8,8 +7,29 @@ eng:
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: 'https://www.opengeospatial.org/acronyms'
   terms:
-  - type: expression
-    designation: SMAC
-    normative_status: 
+    - type: expression
+      designation: SMAC
+      normative_status: null
+  _revisions:
+    current: a7e41c
+    tree:
+      a7e41c:
+        object:
+          id: 386
+          definition: OGC Strategic Member Advisory Committee
+          language_code: eng
+          notes: []
+          examples: []
+          authoritative_source:
+            link: 'https://www.opengeospatial.org/acronyms'
+          terms:
+            - type: expression
+              designation: SMAC
+              normative_status: null
+        parents: []
+        timeCreated: 2020-07-08T12:52:06.367Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
