@@ -4,7 +4,27 @@ author:
   email: anton@strogonoff.name
   name: Anton
 timeCreated: 2020-07-08T14:34:47.835Z
-revisions: {}
+revisions:
+  concepts:
+    40-eng:
+      object:
+        id: 40
+        definition: >-
+          (Technical Committee of Geographic Information) Set of standards for
+          manipulating geographical information (approximately 20).
+        language_code: eng
+        notes: []
+        examples: []
+        authoritative_source:
+          link: >-
+            https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
+        terms:
+          - type: expression
+            designation: CEN TC 287
+            normative_status: preferred
+      parents:
+        - 779e9b
+      timeCreated: 2020-07-12T16:49:25.268Z
 meta:
   registry:
     stage: Draft
